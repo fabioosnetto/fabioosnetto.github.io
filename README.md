@@ -1,6 +1,6 @@
-# **Hello!**
-# [**Fabio O.S. Netto**](https://github.com/fabioosnetto) welcomes you to his public repository.
+# **Hello!** [**Fabio O.S. Netto**](https://github.com/fabioosnetto) welcomes you to his public repository.
 ---
+
 ## Discover my studies and programming work
 
 * See my programming progress as a [pratical course](https://github.com/fabioosnetto/Pratical_Course_Learning);
